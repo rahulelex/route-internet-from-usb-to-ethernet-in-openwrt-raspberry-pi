@@ -1,6 +1,6 @@
 ### Follow below steps to route traffic from USB to Ethernet port in OpenWrt.
 
-> Assuming that you have already installed OpenWrt in your Raspberry-Pi 4 B
+> Assuming that you have already installed OpenWrt in your Raspberry-Pi 4 B (if not install from [here](https://github.com/rahulelex/installation-of-openwrt-on-raspberry-pi-4b))
 
 ### Step 1: Setup Wi-Fi as it requires some software installation.
 1. Open browser and enter url: http://192.168.1.1/
